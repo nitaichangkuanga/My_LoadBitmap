@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My_LoadBitmap</string>
+    <string name="loadbigbitmap">加载大图片</string>
+</resources>
